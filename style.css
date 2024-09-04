@@ -1,0 +1,63 @@
+body{
+background-color: olive;
+font-family: Helvetica, Arial, sans-serif;
+}
+
+body > header{
+background-color: rgb(206, 194, 183);
+color: white ;
+}
+
+#main-header {
+    display: flex;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: dotted;
+}
+
+#logo {
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    box-shadow: 10px 10px 10px 10px purple;
+    width: 17%;
+}
+.navbutton{
+    color: white;
+    text-decoration: dotted;
+}
+
+
+
+h1 {
+    margin: 0px 350px 0px 550px;
+    padding: 5px;
+    text-align: center;
+}
+
+body > main > article {
+    width: 100%;
+    margin: auto ;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+ul{
+    margin: 0px;
+}
+
+body > header > nav > ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+body > footer {
+background-color: rgb(206, 194, 183);
+}
+
+
+
